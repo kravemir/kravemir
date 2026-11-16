@@ -3,7 +3,7 @@
 Shortly, I'm:
 
 - former professional developer,
-- open-source enthusiast and creator [ArchiveKeep](https://github.com/archivekeep/archivekeep) application,
+- open-source enthusiast and creator of [ArchiveKeep](https://github.com/archivekeep/archivekeep) application,
 - manual labourer.
 
 ### About
